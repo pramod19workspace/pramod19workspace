@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Pramod R
-- 👀 I’m interested in DataScience and Backend Development 
-- 🌱 I’m currently learning Python 🐍
-- 💞️ I’m looking to collaborate on Python, MySQL
-- 📫 How to reach me pramod19workspace@gmail.com
+- 👋 Hi, I’m **Pramod R**
+- 👀 I’m interested in **DataScience and Backend Development** 
+- 🌱 I’m currently learning **Python 🐍**
+- 💞️ I’m looking to collaborate on **Python, MySQL**
+- 📫 How to reach me **pramod19workspace@gmail.com**
 - ![](https://komarev.com/ghpvc/?username=pramod19workspace&color=blueviolet&style=plastic)
 
 <p align="center">
@@ -10,6 +10,9 @@
  <img src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg" alt="numpy" width="70" height="40"/>
 
 </p>
+
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=pramod19workspace&show_icons=true&theme=tokyonight" alt="Pramod R" width="400px" height="250px"/><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pramod19workspace&layout=compact&hide=html&theme=tokyonight" alt="pramod19workspace" width="400px" height="250px"/></p>
+
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=pramod19workspace)
 
