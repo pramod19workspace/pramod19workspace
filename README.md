@@ -13,6 +13,8 @@
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=pramod19workspace&show_icons=true&theme=tokyonight" alt="Pramod R" width="400px" height="250px"/> <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pramod19workspace&layout=compact&hide=html&theme=tokyonight" alt="pramod19workspace" width="400px" height="250px"/></p>
 
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=pramod19workspace)
+
 <p align="center"><a href="https://www.facebook.com/pramod.pramod.9883" target="blank"> <img align="center" src="https://cdn3.iconfinder.com/data/icons/picons-social/57/46-facebook-512.png" alt="fb.com" width="50px" height="50px"> </a>
   <a href="https://www.linkedin.com/in/pramod-r-762088183" target="blank"> <img align="center" src="https://cdn3.iconfinder.com/data/icons/picons-social/57/51-linkedin-512.png" alt="linkedin.com" width="50px" height="50px"> </a>
   </p>
