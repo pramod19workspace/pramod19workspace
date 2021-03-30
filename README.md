@@ -2,7 +2,7 @@
 - 👀 I’m interested in **DataScience and Backend Development** 
 - 🌱 I’m currently learning **Python 🐍**
 - 💞️ I’m looking to collaborate on **Python, MySQL**
-- 📫 How to reach me **pramod19workspace@gmail.com**
+- 📫 You can reach me through **pramod19workspace@gmail.com**
 - ![](https://komarev.com/ghpvc/?username=pramod19workspace&color=blueviolet&style=plastic)
 
 <p align="center">
