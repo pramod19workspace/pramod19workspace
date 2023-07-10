@@ -1,0 +1,82 @@
+/* Common styles */
+body, h1, h2, h3, p, ul {
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  max-width: 960px;
+  margin: 0 auto;
+  padding: 40px;
+}
+
+/* Header and navigation */
+header {
+  background-color: #333;
+  color: #fff;
+  padding: 20px;
+}
+
+nav ul {
+  list-style-type: none;
+}
+
+nav ul li {
+  display: inline;
+  margin-right: 20px;
+}
+
+nav ul li a {
+  color: #fff;
+  text-decoration: none;
+}
+
+/* Hero section */
+#hero {
+  background-image: url('hero-background.jpg');
+  background-size: cover;
+  background-position: center;
+  color: #fff;
+  text-align: center;
+  padding: 200px 0;
+}
+
+/* About section */
+#about {
+  background-color: #f5f5f5;
+  padding: 80px 0;
+}
+
+/* Skills section */
+#skills {
+  background-color: #fff;
+  padding: 80px 0;
+}
+
+/* Contact section */
+#contact {
+  background-color: #f5f5f5;
+  padding: 80px 0;
+}
+
+/* Footer */
+footer {
+  background-color: #333;
+  color: #fff;
+  text-align: center;
+  padding: 20px;
+}
+
+/* Responsive styles */
+@media only screen and (max-width: 768px) {
+  /* Adjust styles for small devices */
+  .container {
+    padding: 20px;
+  }
+
+  #hero {
+    padding: 100px 0;
+  }
+
+  /* Other section-specific adjustments as needed */
+}
