@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<h1 align="center">Hi. I'm Pramod R</h1>
+<h1 align="center">I'm Pramod R</h1>
 
 <!--
 **pramod19workspace/pramod19workspace** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
