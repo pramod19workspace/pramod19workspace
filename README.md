@@ -11,7 +11,7 @@ Here are some ideas to get you started:-->
 - 🔭 I’m currently working on ...
 -->
 
-About Me:
+About Me: <br>
 🔭 I’m currently working as a Software Development Engineer at American Chase<br>
 
 - 🔭 I’m currently working/learning
