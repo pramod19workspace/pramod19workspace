@@ -12,7 +12,7 @@ Here are some ideas to get you started:-->
 -->
 
 
-- 🔭 I’m currently working/learning on ...
+- 🔭 I’m currently working/learning
 - 🌱 AWS
 - 🌱 Python
 - 🌱 SQL
