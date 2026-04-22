@@ -4,7 +4,7 @@
 pramod@devops-journey:~$ whoami
 ```
 
-**Pramod R** — Software Development Engineer transitioning into **DevOps Engineering**.
+**Pramod R** — Software Development Engineer transitioning into **DevOps Engineer**.
 
 Currently building, breaking, and documenting my way into production-ready infrastructure skills. Learning in public, shipping weekly.
 
