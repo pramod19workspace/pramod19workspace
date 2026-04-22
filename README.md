@@ -44,7 +44,7 @@ pramod@devops-journey:~$ ls -la ~/skills/
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
-
+<!--
 ---
 
 ## 📊 GitHub Stats
@@ -54,7 +54,7 @@ pramod@devops-journey:~$ ls -la ~/skills/
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pramod19workspace&layout=compact&theme=dark&hide_border=true&bg_color=0a0e0a&title_color=00ff9c&text_color=c8d4cc)
 
 ---
-
+-->
 ## 🌐 Find me elsewhere
 
 ```bash
